@@ -30,7 +30,7 @@ export const CreateEditPages = () =>{
    
     return(
         <div className=" my-4 flex-col w-full">
-            <FormMockInterviews initialData={interview}/>
+            <FormMockInterviews/>
         </div>
     )
 }
