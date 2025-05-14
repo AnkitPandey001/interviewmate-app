@@ -8,7 +8,7 @@ cat << 'EOF' > README.md
 - **Vite**: A fast and modern build tool that offers a smooth development experience.
 - **TypeScript**: Ensures type safety and improves code quality.
 - **Firebase**: Used for backend services like authentication and data storage (e.g., user feedback).
-- **FemeiniAPI**: Provides valuable interview questions based on job titles and experience.
+- **GeminiAPI**: Provides valuable interview questions based on job titles and experience.
 - **Webcam Integration**: Allows users to simulate interviews with webcam support, giving a realistic interview environment.
 - **Text-to-Speech**: Converts text-based prompts into audio, enhancing accessibility and user engagement.
 - **Feedback System**: Collects user feedback after the mock interviews, helping them improve their performance.
@@ -18,7 +18,7 @@ cat << 'EOF' > README.md
 - **Simulated Interviews**: Users can select interview topics based on their field and experience level, and participate in mock interviews.
 - **Webcam Support**: The app uses webcam integration to provide a more realistic interview experience.
 - **Text-to-Speech**: Enables audio-based prompts and instructions during the interview, offering an interactive experience.
-- **FemeiniAPI Integration**: The app uses the FemeiniAPI to generate interview questions for various job positions and experience levels.
+- **GeminiAPI Integration**: The app uses the GeminiAPI to generate interview questions for various job positions and experience levels.
 - **User Feedback**: After each mock interview, users can submit feedback on their experience, which is stored in Firebase for future improvements.
 - **Real-Time Interview Scenarios**: Experience the interview process from both the perspective of the interviewer and the candidate.
 
@@ -55,7 +55,7 @@ Follow these steps to run the project locally:
 ## Features Breakdown
 
 ### Interview Simulation
-Users can select different topics (e.g., **JavaScript**, **React**, **Backend Development**, etc.) to prepare for interviews. The questions are pulled dynamically using the **FemeiniAPI**, which provides real-world interview questions based on user-selected topics.
+Users can select different topics (e.g., **JavaScript**, **React**, **Backend Development**, etc.) to prepare for interviews. The questions are pulled dynamically using the **GeminiAPI**, which provides real-world interview questions based on user-selected topics.
 
 ### Webcam Integration
 To simulate real-life interview scenarios, users can activate their webcam to interact directly with the interview questions. This makes the mock interview more immersive and realistic.
