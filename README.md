@@ -66,11 +66,6 @@ To enhance the user experience, the app includes **Text-to-Speech** functionalit
 ### Firebase Integration
 Feedback from users after completing each interview is collected and saved to **Firebase**. This allows users to track their progress and review feedback to improve their performance in future interviews.
 
-## Screenshots / Demo
-
-*Insert Demo or Screenshots Here*  
-_You can add images here to showcase the features or a live demo of the application._
-
 ## Contributing
 
 If you want to contribute to the development of this project, feel free to fork the repository and submit a pull request. Here’s how you can contribute:
